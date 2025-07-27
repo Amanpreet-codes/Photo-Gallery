@@ -27,7 +27,7 @@ This was one of my first JavaScript projects — made to practice **DOM manipula
 
 ## 🌐 Live Demo
 
-> Will update once deployed!
+[Click Here!](https://photo-gallery-js.vercel.app)
 
 ## 🧠 Notes
 
